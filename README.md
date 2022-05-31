@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jstranberg
-- 👀 I’m interested in ... SRE and DevOps tech
-- 🌱 I’m currently learning ... Go
-- 💞️ I’m looking to collaborate on ... Go and Infrastructure Development
-- 📫 How to reach me ... Email or message here
+- 👀 I’m interested in ... SDET And Test Automation
+- 🌱 I’m currently learning ... Appium
+- 💞️ I’m looking to collaborate on ... Mobile and ML/AI Automation
+- 📫 How to reach me ... tranberg.js@gmail.com
 
 <!---
 jstranberg/jstranberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
